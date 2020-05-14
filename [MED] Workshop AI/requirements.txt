@@ -1,0 +1,10 @@
+jupyter-client==5.2.3
+jupyter-core==4.4.0
+jupyterlab==0.32.1
+jupyterlab-launcher==0.10.5
+numpy==1.14.2
+pandas
+scipy
+scikit-learn
+tensorboard==1.7.0
+tensorflow==1.7.0

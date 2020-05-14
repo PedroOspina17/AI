@@ -1,0 +1,2 @@
+model_checkpoint_path: "wikipedia.ckpt"
+all_model_checkpoint_paths: "wikipedia.ckpt"
