@@ -1,0 +1,16 @@
+beautifulsoup4
+geopandas
+matplotlib
+numpy
+pandas
+scipy
+seaborn
+shapely
+urllib3
+statsmodels
+branca
+folium
+wordcloud
+boto3
+geopy
+pingouin
