@@ -1,0 +1,14 @@
+name: case_1.2_var2
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - nb_conda
+  - nb_conda_kernels
+  - nb_anacondacloud
+  - jupyter_client
+  - nbconvert
+  - pandas
+  - numpy
+  - matplotlib

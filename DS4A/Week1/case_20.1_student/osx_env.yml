@@ -1,0 +1,12 @@
+name: case_20.1
+channels:
+- conda-forge
+- defaults
+dependencies:
+- jupyter
+- nb_conda
+- nb_conda_kernels
+- nb_anacondacloud
+- conda
+- jupyter_client
+- nbconvert

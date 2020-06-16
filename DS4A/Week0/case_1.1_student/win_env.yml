@@ -1,0 +1,6 @@
+name: case_1.1_var2
+channels:
+- anaconda-fusion
+- defaults
+dependencies:
+- numpy

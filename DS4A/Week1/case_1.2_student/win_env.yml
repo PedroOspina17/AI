@@ -1,0 +1,8 @@
+name: case_1.2_var2
+channels:
+- anaconda-fusion
+- defaults
+dependencies:
+- pandas
+- numpy
+- matplotlib

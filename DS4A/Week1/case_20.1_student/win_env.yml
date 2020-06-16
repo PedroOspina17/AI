@@ -1,0 +1,6 @@
+name: case_20.1
+channels:
+- anaconda-fusion
+- defaults
+dependencies:
+- numpy

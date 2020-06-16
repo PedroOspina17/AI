@@ -1,0 +1,3 @@
+ipython
+beautifulsoup4
+pandas
