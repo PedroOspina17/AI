@@ -1,0 +1,35 @@
+/*This document contains the styles that use the app. You can change these as you wish.*/
+
+.ds4a-app {
+    background-color: #F8F9F9
+}
+
+.ds4a-body {
+    margin-left: 18rem;
+    margin-right: 2rem;
+    padding: 2rem 1rem;
+    background-color: #F8F9F9;
+}
+
+.ds4a-title {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    height: 120px;
+    width: 100%;
+    margin-left: 16rem;
+    margin-right: 2rem;
+    padding: 2rem 1rem;
+    background-color: #F8F9F9;
+}
+
+.ds4a-sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 16rem;
+    padding: 2rem 1rem;
+    background-color: #AAB7B8; 
+}
