@@ -1,0 +1,7 @@
+tweepy
+psycopg2-binary
+sqlalchemy
+nltk
+textblob
+dash
+plotly
