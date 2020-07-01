@@ -1,0 +1,9 @@
+beautifulsoup4
+geopandas
+matplotlib
+numpy
+pandas
+scipy
+seaborn
+shapely
+statsmodels
