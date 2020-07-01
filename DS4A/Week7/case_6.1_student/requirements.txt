@@ -1,0 +1,10 @@
+pandas
+scipy
+numpy
+matplotlib
+seaborn
+plotly
+statsmodels
+bqplot
+ipywidgets
+chart-studio
