@@ -1,0 +1,11 @@
+numpy
+pydotplus
+pandas
+seaborn
+ipython
+matplotlib
+scipy
+scikit-learn
+statsmodels
+sympy
+graphviz
