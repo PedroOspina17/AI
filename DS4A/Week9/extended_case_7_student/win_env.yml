@@ -1,0 +1,10 @@
+name: extended_case_7
+channels:
+- anaconda-fusion
+- defaults
+dependencies:
+- seaborn
+- numpy
+- pandas
+- tensorflow
+- scikit-learn

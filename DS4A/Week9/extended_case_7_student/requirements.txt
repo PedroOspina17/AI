@@ -1,0 +1,6 @@
+seaborn
+numpy
+pandas
+scipy==1.4.1
+tensorflow
+scikit-learn

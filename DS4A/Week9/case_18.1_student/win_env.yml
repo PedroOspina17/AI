@@ -1,0 +1,12 @@
+name: case_18.1
+channels:
+- anaconda-fusion
+- defaults
+dependencies:
+- python
+- numpy
+- matplotlib
+- pandas
+- scikit-learn
+- seaborn
+- tensorflow
