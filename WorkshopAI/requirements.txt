@@ -7,4 +7,4 @@ pandas
 scipy
 scikit-learn
 tensorboard==1.7.0
-tensorflow==1.15.2
+tensorflow==1.15.4
