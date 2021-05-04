@@ -1,7 +1,0 @@
-plotly
-numpy
-seaborn
-pandas
-matplotlib
-tqdm
-ipywidgets
