@@ -1,6 +1,6 @@
 jupyter-client==5.2.3
 jupyter-core==4.4.0
-jupyterlab==0.32.1
+jupyterlab==1.2.21
 jupyterlab-launcher==0.10.5
 numpy==1.14.2
 pandas
